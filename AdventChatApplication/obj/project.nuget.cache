@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "y6zDAniqlMTry37nZQGCJ0jVMvzQOfJgKU+ajFgr63tZ6D4mhnXy9hyY3bubYsV9oVyrsBKfMzsnnGPdGt4oSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\AdventChatApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arlex\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\arlex\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\arlex\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\arlex\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
+    "C:\\Users\\arlex\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\arlex\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\arlex\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

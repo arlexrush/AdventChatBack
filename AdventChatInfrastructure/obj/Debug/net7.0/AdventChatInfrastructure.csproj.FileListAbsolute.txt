@@ -1,0 +1,17 @@
+C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatInfrastructure\bin\Debug\net7.0\AdventChatInfrastructure.deps.json
+C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatInfrastructure\bin\Debug\net7.0\AdventChatInfrastructure.dll
+C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatInfrastructure\bin\Debug\net7.0\AdventChatInfrastructure.pdb
+C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatInfrastructure\bin\Debug\net7.0\AdventChatApplication.dll
+C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatInfrastructure\bin\Debug\net7.0\AdventChatDomain.dll
+C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatInfrastructure\bin\Debug\net7.0\AdventChatApplication.pdb
+C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatInfrastructure\bin\Debug\net7.0\AdventChatDomain.pdb
+C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatInfrastructure\obj\Debug\net7.0\AdventChatInfrastructure.csproj.AssemblyReference.cache
+C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatInfrastructure\obj\Debug\net7.0\AdventChatInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatInfrastructure\obj\Debug\net7.0\AdventChatInfrastructure.AssemblyInfoInputs.cache
+C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatInfrastructure\obj\Debug\net7.0\AdventChatInfrastructure.AssemblyInfo.cs
+C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatInfrastructure\obj\Debug\net7.0\AdventChatInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatInfrastructure\obj\Debug\net7.0\AdventCh.CD02AA33.Up2Date
+C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatInfrastructure\obj\Debug\net7.0\AdventChatInfrastructure.dll
+C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatInfrastructure\obj\Debug\net7.0\refint\AdventChatInfrastructure.dll
+C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatInfrastructure\obj\Debug\net7.0\AdventChatInfrastructure.pdb
+C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatInfrastructure\obj\Debug\net7.0\ref\AdventChatInfrastructure.dll
