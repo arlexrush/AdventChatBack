@@ -4,6 +4,14 @@ using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Asegúrate de que la configuración se está cargando correctamente
+builder.Configuration
+    .SetBasePath(Directory.GetCurrentDirectory())
+    .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+    .AddJsonFile($"appsettings.{builder.Environment.EnvironmentName}.json", optional: true, reloadOnChange: true)
+    .AddEnvironmentVariables();
+
+
 //Layer Services Registration
 
 builder.Services.AddApplicationService(builder.Configuration);

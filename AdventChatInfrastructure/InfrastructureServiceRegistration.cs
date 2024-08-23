@@ -124,8 +124,8 @@ namespace AdventChatInfrastructure
             services.AddScoped<IOpenAIService, OpenAIService>();
 
             //Pinecone Service Registration
-            services.Configure<PineconeSettings>(configuration.GetSection("PineconeSettings"));            
             services.AddScoped<IPineconeService, PineconeService>();
+            services.Configure<PineconeSettings>(configuration.GetSection("PineconeSettings"));  
             services.AddSingleton(serviceProvider => {
                 var apikey = serviceProvider.GetRequiredService<IOptions<PineconeSettings>>().Value.ApiKey;
                 var nameIndex= serviceProvider.GetRequiredService<IOptions<PineconeSettings>>().Value.IndexName;

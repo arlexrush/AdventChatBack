@@ -40,6 +40,7 @@ namespace AdventChatInfrastructure.ChunkingServices
                         {
                             { "source", sourceFileName! },
                             { "chunk_id", ComputeHash((i + 1).ToString())},
+                            { "chunkContent", chunks[i] },
                             { "total_chunks", chunks.Count.ToString() },
                             { "char_count", chunks[i].Length.ToString() },
                             { "word_count", CountWords(chunks[i]).ToString() },

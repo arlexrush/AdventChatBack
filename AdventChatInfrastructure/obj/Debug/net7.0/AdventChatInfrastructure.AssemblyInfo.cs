@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdventChatInfrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0c8f6a970938264886854fc9946bb803bf64883")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d875da25bad3fa3421294e34234ebb5ec1aff59e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdventChatInfrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdventChatInfrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
