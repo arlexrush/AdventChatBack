@@ -9,12 +9,12 @@ namespace AdventChatApplication.Models
 {
     public class PineconeQueryResult
     {
-        public string Id { get; }
-        public float Score { get; }
-        public float[] Values { get; }
-        public Dictionary<string, object> Metadata { get; }
+        public string Id { get; set; }
+        public double Score { get; set; }
+        public float[] Values { get; set; }
+        public Dictionary<string, object> Metadata { get; set; }
 
-        public PineconeQueryResult(string id, float score, float[] values, Dictionary<string, object> metadata)
+        public PineconeQueryResult(string id, double score, float[] values, Dictionary<string, object> metadata)
         {
             Id = id;
             Score = score;

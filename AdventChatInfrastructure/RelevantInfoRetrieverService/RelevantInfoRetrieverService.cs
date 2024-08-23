@@ -8,32 +8,46 @@ namespace AdventChatInfrastructure.RelevantInfoRetrieverServices
     {
         private readonly IEmbeddingService? _embeddingService;
         private readonly IEmbeddingsStoreService? _embeddingsStoreService;
+        private readonly ITypeChunkingService? _typeChunkingService;
         //private readonly IOpenAIService? _openAIService;
 
-        public RelevantInfoRetrieverService(IEmbeddingService? embeddingService, IEmbeddingsStoreService? embeddingsStoreService)
+        public RelevantInfoRetrieverService(IEmbeddingService? embeddingService, IEmbeddingsStoreService? embeddingsStoreService, ITypeChunkingService typeChunkingService)
         {
             _embeddingService = embeddingService;
             _embeddingsStoreService = embeddingsStoreService;
+            _typeChunkingService = typeChunkingService;
         }
 
-        public async Task<string> GenerateResponseAsync(string query)
+        public async Task<string> GenerateResponseAsync(string userPrompt)
         {
+
+
             if (_embeddingService == null || _embeddingsStoreService == null)
             {
                 throw new InvalidOperationException("Uno o más servicios requeridos no están inicializados.");
             }
 
-            // Generar embedding para la consulta
-            var queryEmbedding = await _embeddingService.GenerateEmbeddingWithCohereForQueryAsync(query);
+            var promptsFromContext=new List<string>();
 
-            // Buscar información relevante en Pinecone
-            var queryResults = await _embeddingsStoreService.QueryEmbeddingsAsync(queryEmbedding, topK: 5);
+            // Chunking userPrompt
+            var chunksFromPrompt= _typeChunkingService!.SemanticChunkText(userPrompt);
 
-            // Preparar el contexto para OpenAI
-            var context = PrepareContext(queryResults);
+            foreach (string chunk in chunksFromPrompt)
+            {
+                // Generar embedding para la consulta
+                var embeddingFromQuery = await _embeddingService.GenerateEmbeddingWithCohereForQueryAsync(chunk);
 
+                // Buscar información relevante en Pinecone
+                var queryResults = await _embeddingsStoreService.QueryEmbeddingsAsync(embeddingFromQuery, topK: 10);
+
+                // Preparar el contexto para OpenAI
+                var contextN = PrepareContext(queryResults);
+
+                promptsFromContext.Add(contextN);
+            }
+            
             // Generar prompt para OpenAI
-            var prompt = GeneratePrompt(query, context);
+            var prompt = GeneratePrompt(userPrompt, promptsFromContext);
 
             // Obtener respuesta de OpenAI
             //var response = await _openAIService.GetCompletionAsync(prompt);
@@ -56,9 +70,15 @@ namespace AdventChatInfrastructure.RelevantInfoRetrieverServices
             return contextBuilder.ToString();
         }
 
-        private string GeneratePrompt(string query, string context)
+        private string GeneratePrompt(string userPrompt, List<string> promptsFromContext)
         {
-            return $"Contexto:\n{context}\n\nPregunta: {query}\n\nRespuesta:";
+            string context="";
+            foreach (string promptString in promptsFromContext)
+            {
+                context = context + $"\n{promptString}\n";
+            }
+
+            return $"Contexto:\n{context}\n\nPregunta: {userPrompt}\n\nRespuesta:";
         }
     }
 }

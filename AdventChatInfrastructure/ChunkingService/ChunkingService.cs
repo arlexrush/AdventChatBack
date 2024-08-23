@@ -66,6 +66,9 @@ namespace AdventChatInfrastructure.ChunkingServices
                 byte[] hashBytes = sha256.ComputeHash(inputBytes);
                 return BitConverter.ToString(hashBytes).Replace("-", "").ToLower();
             }
-        }        
+        }
+        
+
+
     }
 }

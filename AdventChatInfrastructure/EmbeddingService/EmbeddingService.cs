@@ -2,25 +2,27 @@
 using AdventChatApplication.Models;
 using AdventChatDomain;
 using AdventChatInfrastructure.OpenAIServices;
+using AdventChatInfrastructure.SentenceTransformerServices;
 using System.Text.Json;
 
 namespace AdventChatInfrastructure.EmbeddingServices
 {
     public class EmbeddingService: IEmbeddingService
     {
+        private readonly ISentenceTransformerService? _sentenceTransformerService;
         private readonly IChunkingService? _chunkingService;
         private readonly IHuggingFaceService? _huggingFaceService;
         private readonly ICohereService? _cohereService;
         private readonly IOpenAIService? _openAIService;
         private HttpMethod? _method= HttpMethod.Post;
 
-        public EmbeddingService(IChunkingService? chunkingService, IOpenAIService? openAIService, IHuggingFaceService huggingFaceService, ICohereService cohereService)
+        public EmbeddingService(ISentenceTransformerService sentenceTransformerService, IChunkingService? chunkingService, IOpenAIService? openAIService, IHuggingFaceService huggingFaceService, ICohereService cohereService)
         {
+            _sentenceTransformerService = sentenceTransformerService ?? throw new ArgumentNullException(nameof(sentenceTransformerService));
             _chunkingService = chunkingService ?? throw new ArgumentNullException(nameof(chunkingService)); 
             _openAIService = openAIService ?? throw new ArgumentNullException(nameof(openAIService));
             _huggingFaceService= huggingFaceService ?? throw new ArgumentNullException(nameof(huggingFaceService));
             _cohereService = cohereService ?? throw new ArgumentNullException();
-
         }
 
 
@@ -32,7 +34,7 @@ namespace AdventChatInfrastructure.EmbeddingServices
 
             var tasks = documentsChunks.Select(async document =>
             {
-                var embedding = await CreateEmbeddingFromCohereAsync(document.Content!);
+                var embedding = await CreateEmbeddingFromSTModelAsync(document.Content!);
                 return new DocumentRagWithEmbedding
                 {
                     Id=embedding.Id!,
@@ -98,6 +100,32 @@ namespace AdventChatInfrastructure.EmbeddingServices
 
         }
 
+        // This Method access to SentenceTransformerService to generate embeddings from chunked text
+
+        public async Task<EmbeddingDoc> CreateEmbeddingFromSTModelAsync(string textQuery)
+        {
+            if (string.IsNullOrWhiteSpace(textQuery))
+            {
+                throw new ArgumentException("Text cannot be null or whitespace", nameof(textQuery));
+            }
+
+            try
+            {
+                Task<HttpResponseMessage> embeddingsHttp = _sentenceTransformerService!.SendRequestEnbeddingToSTModelAsync(textQuery);
+
+                using (HttpResponseMessage response = await embeddingsHttp)
+                {
+                    response.EnsureSuccessStatusCode();
+                    string jsonResponse = await response.Content.ReadAsStringAsync(); // jsonResponse=[0.09003029763698578] > "Quienes son los Adventistas del Septimo Día?"
+                    return ExtractEmbeddingFromSTModelResponse(jsonResponse);
+                }
+            }
+            catch (HttpRequestException ex)
+            {
+                throw new Exception("Failed to get embedding from OpenAI", ex);
+            }
+        }
+
         // This Method access to Cohereservice to generate embeddings from chunked text
         public async Task<EmbeddingDoc> CreateEmbeddingFromCohereAsync(string textQuery)
         {
@@ -122,6 +150,7 @@ namespace AdventChatInfrastructure.EmbeddingServices
                 throw new Exception("Failed to get embedding from OpenAI", ex);
             }
         }
+
 
 
         // Extract vector from http message from OpenIA API
@@ -166,6 +195,32 @@ namespace AdventChatInfrastructure.EmbeddingServices
                     var stringJson=embedding.GetRawText();
                     var jsonReturn = JsonSerializer.Deserialize<float[]>(stringJson); // salida: jsonReturn=[0.0900303] , entrada: embedding=[0.09003029763698578]
                     return jsonReturn!;
+                }
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Failed to extract embedding from OpenAI response", ex);
+            }
+        }
+
+        // Extract vector from http message from own SentenceTransformer API
+        private EmbeddingDoc ExtractEmbeddingFromSTModelResponse(string jsonResponse)
+        {
+            if (string.IsNullOrWhiteSpace(jsonResponse))
+            {
+                throw new ArgumentException("Text cannot be null or whitespace", nameof(jsonResponse));
+            }
+
+            try
+            {
+                using (JsonDocument doc = JsonDocument.Parse(jsonResponse))
+                {
+                    JsonElement root = doc.RootElement;
+                    JsonElement embeddings = root.GetProperty("embeddings");
+                    var jsonEbeddingInArray = embeddings.EnumerateArray();
+                    var jsonEmbeddingReturn = jsonEbeddingInArray.Select(x=>x.GetSingle()).ToArray();
+                    var responseExtraction = new EmbeddingDoc() { Id = Guid.NewGuid().ToString(), Embedding = jsonEmbeddingReturn };
+                    return responseExtraction!;
                 }
             }
             catch (Exception ex)

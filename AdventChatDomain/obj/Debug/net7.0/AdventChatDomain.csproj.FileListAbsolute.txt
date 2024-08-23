@@ -5,6 +5,7 @@ C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatDomain\obj\Debug\net7.
 C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatDomain\obj\Debug\net7.0\AdventChatDomain.AssemblyInfoInputs.cache
 C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatDomain\obj\Debug\net7.0\AdventChatDomain.AssemblyInfo.cs
 C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatDomain\obj\Debug\net7.0\AdventChatDomain.csproj.CoreCompileInputs.cache
+C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatDomain\obj\Debug\net7.0\AdventChatDomain.sourcelink.json
 C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatDomain\obj\Debug\net7.0\AdventChatDomain.dll
 C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatDomain\obj\Debug\net7.0\refint\AdventChatDomain.dll
 C:\Users\arlex\source\REPOS_.NET\AdventChatBack\AdventChatDomain\obj\Debug\net7.0\AdventChatDomain.pdb

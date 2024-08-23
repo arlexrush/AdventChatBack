@@ -3,92 +3,103 @@
   "WorkspaceRootPath": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CE03227-BB2D-4134-863F-955C85E925AB}|AdventChatAPI\\AdventChatAPI.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapi\\appsettings.json.template.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2CE03227-BB2D-4134-863F-955C85E925AB}|AdventChatAPI\\AdventChatAPI.csproj|solutionrelative:adventchatapi\\appsettings.json.template.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC7342EE-9F5D-4920-9498-95B881AEE433}|Elementos de la soluci\u00F3n{CC7342EE-9F5D-4920-9498-95B881AEE433}|C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{CC7342EE-9F5D-4920-9498-95B881AEE433}|Elementos de la soluci\u00F3n{CC7342EE-9F5D-4920-9498-95B881AEE433}|solutionrelative:.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CE03227-BB2D-4134-863F-955C85E925AB}|AdventChatAPI\\AdventChatAPI.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2CE03227-BB2D-4134-863F-955C85E925AB}|AdventChatAPI\\AdventChatAPI.csproj|solutionrelative:adventchatapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE03227-BB2D-4134-863F-955C85E925AB}|AdventChatAPI\\AdventChatAPI.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapi\\adventchatapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2CE03227-BB2D-4134-863F-955C85E925AB}|AdventChatAPI\\AdventChatAPI.csproj|solutionrelative:adventchatapi\\adventchatapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\embeddingservice\\embeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\embeddingservice\\embeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\embeddingstorageservice\\pineconeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\embeddingstorageservice\\pineconeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\embeddingstorageservice\\embeddingsstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\embeddingstorageservice\\embeddingsstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CE03227-BB2D-4134-863F-955C85E925AB}|AdventChatAPI\\AdventChatAPI.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE03227-BB2D-4134-863F-955C85E925AB}|AdventChatAPI\\AdventChatAPI.csproj|solutionrelative:adventchatapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE03227-BB2D-4134-863F-955C85E925AB}|AdventChatAPI\\AdventChatAPI.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapi\\appsettings.json.template.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CE03227-BB2D-4134-863F-955C85E925AB}|AdventChatAPI\\AdventChatAPI.csproj|solutionrelative:adventchatapi\\appsettings.json.template.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\models\\pineconesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\models\\pineconesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\features\\adventchat\\commands\\embeddingchunkscommands\\embeddingchunkscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\features\\adventchat\\commands\\embeddingchunkscommands\\embeddingchunkscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\cohereservice\\cohereservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\cohereservice\\cohereservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\chunkingservice\\chunkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\chunkingservice\\chunkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\googlefirebaseservice\\googlefirebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\googlefirebaseservice\\googlefirebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\typechunkingservice\\typechunkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\typechunkingservice\\typechunkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\processingdataservice\\processingdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\processingdataservice\\processingdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\behaviors\\unhandleexceptionbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\behaviors\\unhandleexceptionbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\sentencetransformerservice\\sentencetransformerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\sentencetransformerservice\\sentencetransformerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE03227-BB2D-4134-863F-955C85E925AB}|AdventChatAPI\\AdventChatAPI.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapi\\controllers\\adventchatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CE03227-BB2D-4134-863F-955C85E925AB}|AdventChatAPI\\AdventChatAPI.csproj|solutionrelative:adventchatapi\\controllers\\adventchatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\embeddingstorageservice\\embeddingsstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\embeddingstorageservice\\embeddingsstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\features\\adventchat\\commands\\embeddingchunkscommands\\embeddingchunkscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\features\\adventchat\\commands\\embeddingchunkscommands\\embeddingchunkscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\contracts\\infrastructure\\ipineconeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\contracts\\infrastructure\\ipineconeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\relevantinforetrieverservice\\relevantinforetrieverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\relevantinforetrieverservice\\relevantinforetrieverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arlex\\.nuget\\packages\\pinecone.net\\2.1.1\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\models\\pineconequeryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\models\\pineconequeryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BD7C9-3D14-43E7-9ED9-63706391F63A}|AdventChatDomain\\AdventChatDomain.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatdomain\\documentragwithembedding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57BD7C9-3D14-43E7-9ED9-63706391F63A}|AdventChatDomain\\AdventChatDomain.csproj|solutionrelative:adventchatdomain\\documentragwithembedding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\googlefirebaseservice\\googlefirebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\googlefirebaseservice\\googlefirebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\googlefirebaseservice\\igooglefirebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\googlefirebaseservice\\igooglefirebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\openaiservice\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\openaiservice\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\embeddingservice\\embeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\embeddingservice\\embeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\generativeresponseservice\\generativeresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\generativeresponseservice\\generativeresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\chunkingservice\\chunkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\chunkingservice\\chunkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\features\\adventchat\\queries\\getchat\\getchatqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\features\\adventchat\\queries\\getchat\\getchatqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\processingdataservice\\processingdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\processingdataservice\\processingdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\models\\embeddingdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\models\\embeddingdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\sentencetransformerservice\\isentencetransformerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\sentencetransformerservice\\isentencetransformerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\models\\sentencetransformersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\models\\sentencetransformersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\huggingfaceservice\\huggingfaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\huggingfaceservice\\huggingfaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\cohereservice\\cohereservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\cohereservice\\cohereservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\relevantinforetrieverservice\\relevantinforetrieverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\relevantinforetrieverservice\\relevantinforetrieverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\contracts\\infrastructure\\iembeddingsstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,16 +110,56 @@
       "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\contracts\\infrastructure\\iembeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\models\\embeddingdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\models\\embeddingdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\generativeresponseservice\\generativeresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\generativeresponseservice\\generativeresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\contracts\\infrastructure\\igenerativeresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\contracts\\infrastructure\\igenerativeresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE03227-BB2D-4134-863F-955C85E925AB}|AdventChatAPI\\AdventChatAPI.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CE03227-BB2D-4134-863F-955C85E925AB}|AdventChatAPI\\AdventChatAPI.csproj|solutionrelative:adventchatapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\features\\adventchat\\queries\\getchat\\getchatqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\features\\adventchat\\queries\\getchat\\getchatqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\contracts\\infrastructure\\irelevantinforetrieverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\contracts\\infrastructure\\irelevantinforetrieverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\models\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\models\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\models\\dialoguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\models\\dialoguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7342EE-9F5D-4920-9498-95B881AEE433}|Elementos de la soluci\u00F3n{CC7342EE-9F5D-4920-9498-95B881AEE433}|C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CC7342EE-9F5D-4920-9498-95B881AEE433}|Elementos de la soluci\u00F3n{CC7342EE-9F5D-4920-9498-95B881AEE433}|solutionrelative:.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\contracts\\infrastructure\\ichunkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\contracts\\infrastructure\\ichunkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\typechunkingservice\\typechunkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\typechunkingservice\\typechunkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\behaviors\\unhandleexceptionbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\behaviors\\unhandleexceptionbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE03227-BB2D-4134-863F-955C85E925AB}|AdventChatAPI\\AdventChatAPI.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapi\\controllers\\adventchatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE03227-BB2D-4134-863F-955C85E925AB}|AdventChatAPI\\AdventChatAPI.csproj|solutionrelative:adventchatapi\\controllers\\adventchatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\features\\adventchat\\commands\\embeddingchunkscommands\\embeddingchunkscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\features\\adventchat\\commands\\embeddingchunkscommands\\embeddingchunkscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\openaiservice\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\openaiservice\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\contracts\\infrastructure\\icohereservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -123,10 +174,6 @@
       "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\contracts\\infrastructure\\ihuggingfaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\huggingfaceservice\\huggingfaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\huggingfaceservice\\huggingfaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\models\\hfsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\models\\hfsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -139,20 +186,12 @@
       "RelativeMoniker": "D:0:0:{C57BD7C9-3D14-43E7-9ED9-63706391F63A}|AdventChatDomain\\AdventChatDomain.csproj|solutionrelative:adventchatdomain\\chatgpt_3_5_turbocompletionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\models\\pineconequeryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\models\\pineconequeryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\models\\queryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\models\\queryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\models\\pineconesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\models\\pineconesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\openaiservice\\iopenaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -179,24 +218,8 @@
       "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\features\\adventchat\\queries\\getchat\\getchatquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\contracts\\infrastructure\\irelevantinforetrieverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\contracts\\infrastructure\\irelevantinforetrieverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\contracts\\infrastructure\\ichunkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\contracts\\infrastructure\\ichunkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\contracts\\infrastructure\\iprocessingdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\contracts\\infrastructure\\iprocessingdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\contracts\\infrastructure\\igenerativeresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\contracts\\infrastructure\\igenerativeresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatapplication\\contracts\\infrastructure\\ipineconeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFADD3C7-C8D2-46C8-980C-7BBD78B42095}|AdventChatApplication\\AdventChatApplication.csproj|solutionrelative:adventchatapplication\\contracts\\infrastructure\\ipineconeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\models\\firebasestoragesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -223,10 +246,6 @@
       "RelativeMoniker": "D:0:0:{C57BD7C9-3D14-43E7-9ED9-63706391F63A}|AdventChatDomain\\AdventChatDomain.csproj|solutionrelative:adventchatdomain\\documentrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C57BD7C9-3D14-43E7-9ED9-63706391F63A}|AdventChatDomain\\AdventChatDomain.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatdomain\\documentragwithembedding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C57BD7C9-3D14-43E7-9ED9-63706391F63A}|AdventChatDomain\\AdventChatDomain.csproj|solutionrelative:adventchatdomain\\documentragwithembedding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\adventchatback\\adventchatinfrastructure\\models\\firebasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A31E900-4880-452D-ADC1-C3FCD61F8D93}|AdventChatInfrastructure\\AdventChatInfrastructure.csproj|solutionrelative:adventchatinfrastructure\\models\\firebasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -242,63 +261,65 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 55,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatAPI\\Program.cs",
               "RelativeDocumentMoniker": "AdventChatAPI\\Program.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatAPI\\Program.cs",
               "RelativeToolTip": "AdventChatAPI\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAASwBQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-07T18:20:06.173Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatAPI\\appsettings.json",
               "RelativeDocumentMoniker": "AdventChatAPI\\appsettings.json",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatAPI\\appsettings.json",
               "RelativeToolTip": "AdventChatAPI\\appsettings.json",
-              "ViewState": "AQIAACsAAAAAAAAAAAAAADsAAAC5AAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAC8AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-07T17:36:35.915Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "IGoogleFirebaseService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\GoogleFirebaseService\\IGoogleFirebaseService.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\GoogleFirebaseService\\IGoogleFirebaseService.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\GoogleFirebaseService\\IGoogleFirebaseService.cs",
               "RelativeToolTip": "AdventChatInfrastructure\\GoogleFirebaseService\\IGoogleFirebaseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAIAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T18:41:42.584Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "GoogleFirebaseService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\GoogleFirebaseService\\GoogleFirebaseService.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\GoogleFirebaseService\\GoogleFirebaseService.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\GoogleFirebaseService\\GoogleFirebaseService.cs",
               "RelativeToolTip": "AdventChatInfrastructure\\GoogleFirebaseService\\GoogleFirebaseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAvwBYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T18:38:52.94Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 54,
               "Title": "IProcessingDataService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Contracts\\Infrastructure\\IProcessingDataService.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Contracts\\Infrastructure\\IProcessingDataService.cs",
@@ -311,20 +332,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "ProcessingDataService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\ProcessingDataService\\ProcessingDataService.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\ProcessingDataService\\ProcessingDataService.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\ProcessingDataService\\ProcessingDataService.cs",
               "RelativeToolTip": "AdventChatInfrastructure\\ProcessingDataService\\ProcessingDataService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBQAAAAIAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswBQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-07T17:15:15.503Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 34,
               "Title": "IChunkingService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Contracts\\Infrastructure\\IChunkingService.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Contracts\\Infrastructure\\IChunkingService.cs",
@@ -337,46 +358,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "ChunkingService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\ChunkingService\\ChunkingService.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\ChunkingService\\ChunkingService.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\ChunkingService\\ChunkingService.cs",
               "RelativeToolTip": "AdventChatInfrastructure\\ChunkingService\\ChunkingService.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAwwDQAAAAMAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAEwBsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T21:46:27.355Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "IEmbeddingService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Contracts\\Infrastructure\\IEmbeddingService.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Contracts\\Infrastructure\\IEmbeddingService.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Contracts\\Infrastructure\\IEmbeddingService.cs",
               "RelativeToolTip": "AdventChatApplication\\Contracts\\Infrastructure\\IEmbeddingService.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwAoAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T04:17:35.237Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "EmbeddingService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\EmbeddingService\\EmbeddingService.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\EmbeddingService\\EmbeddingService.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\EmbeddingService\\EmbeddingService.cs",
               "RelativeToolTip": "AdventChatInfrastructure\\EmbeddingService\\EmbeddingService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAAANAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAASwC0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T19:47:42.032Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 48,
               "Title": "IOpenAIService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\OpenAIService\\IOpenAIService.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\OpenAIService\\IOpenAIService.cs",
@@ -389,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 39,
               "Title": "OpenAIService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\OpenAIService\\OpenAIService.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\OpenAIService\\OpenAIService.cs",
@@ -402,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 44,
               "Title": "OpenAISettings.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\Models\\OpenAISettings.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\Models\\OpenAISettings.cs",
@@ -415,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 61,
               "Title": "FirebaseSettings.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\Models\\FirebaseSettings.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\Models\\FirebaseSettings.cs",
@@ -428,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 55,
               "Title": "FirebaseStorageSettings.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\Models\\FirebaseStorageSettings.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\Models\\FirebaseStorageSettings.cs",
@@ -441,20 +462,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 0,
               "Title": "InfrastructureServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\InfrastructureServiceRegistration.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\InfrastructureServiceRegistration.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\InfrastructureServiceRegistration.cs",
               "RelativeToolTip": "AdventChatInfrastructure\\InfrastructureServiceRegistration.cs",
-              "ViewState": "AQIAAF4AAAAAAAAAAAAAAEkAAABPAAAA",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAIMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-07T17:46:32.057Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 45,
               "Title": "ChatGpt_3_5_TurboCompletionRequest.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatDomain\\ChatGpt_3_5_TurboCompletionRequest.cs",
               "RelativeDocumentMoniker": "AdventChatDomain\\ChatGpt_3_5_TurboCompletionRequest.cs",
@@ -467,20 +489,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 13,
               "Title": "DocumentRagWithEmbedding.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatDomain\\DocumentRagWithEmbedding.cs",
               "RelativeDocumentMoniker": "AdventChatDomain\\DocumentRagWithEmbedding.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatDomain\\DocumentRagWithEmbedding.cs",
               "RelativeToolTip": "AdventChatDomain\\DocumentRagWithEmbedding.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-06T19:24:17.65Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 60,
               "Title": "DocumentRag.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatDomain\\DocumentRag.cs",
               "RelativeDocumentMoniker": "AdventChatDomain\\DocumentRag.cs",
@@ -493,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 59,
               "Title": "ChunkingSettings.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\Models\\ChunkingSettings.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\Models\\ChunkingSettings.cs",
@@ -506,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 58,
               "Title": "FileRag.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Models\\FileRag.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Models\\FileRag.cs",
@@ -519,46 +541,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 5,
               "Title": "PineconeSettings.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\Models\\PineconeSettings.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\Models\\PineconeSettings.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\Models\\PineconeSettings.cs",
               "RelativeToolTip": "AdventChatInfrastructure\\Models\\PineconeSettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-20T21:26:10.202Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 10,
               "Title": "IPineconeService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Contracts\\Infrastructure\\IPineconeService.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Contracts\\Infrastructure\\IPineconeService.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Contracts\\Infrastructure\\IPineconeService.cs",
               "RelativeToolTip": "AdventChatApplication\\Contracts\\Infrastructure\\IPineconeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-20T23:01:09.823Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "PineconeService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\EmbeddingStorageService\\PineconeService.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\EmbeddingStorageService\\PineconeService.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\EmbeddingStorageService\\PineconeService.cs",
               "RelativeToolTip": "AdventChatInfrastructure\\EmbeddingStorageService\\PineconeService.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAD4vz8AAAAMAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwDIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-20T23:03:32.322Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 46,
               "Title": "QueryResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Models\\QueryResponse.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Models\\QueryResponse.cs",
@@ -571,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 57,
               "Title": "FetchResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Models\\FetchResponse.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Models\\FetchResponse.cs",
@@ -584,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 56,
               "Title": "Vector.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Models\\Vector.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Models\\Vector.cs",
@@ -597,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 47,
               "Title": "Match.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Models\\Match.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Models\\Match.cs",
@@ -610,46 +633,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 12,
               "Title": "PineconeQueryResult.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Models\\PineconeQueryResult.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Models\\PineconeQueryResult.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Models\\PineconeQueryResult.cs",
               "RelativeToolTip": "AdventChatApplication\\Models\\PineconeQueryResult.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBUAAAAgAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwAwAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T21:32:50.14Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "IEmbeddingsStoreService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Contracts\\Infrastructure\\IEmbeddingsStoreService.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Contracts\\Infrastructure\\IEmbeddingsStoreService.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Contracts\\Infrastructure\\IEmbeddingsStoreService.cs",
               "RelativeToolTip": "AdventChatApplication\\Contracts\\Infrastructure\\IEmbeddingsStoreService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAxwAwAAABhAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIAwwA0AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T22:37:21.181Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "EmbeddingsStoreService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\EmbeddingStorageService\\EmbeddingsStoreService.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\EmbeddingStorageService\\EmbeddingsStoreService.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\EmbeddingStorageService\\EmbeddingsStoreService.cs",
               "RelativeToolTip": "AdventChatInfrastructure\\EmbeddingStorageService\\EmbeddingsStoreService.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAtwB4AAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T21:42:51.627Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 30,
               "Title": "IRelevantInfoRetrieverService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Contracts\\Infrastructure\\IRelevantInfoRetrieverService.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Contracts\\Infrastructure\\IRelevantInfoRetrieverService.cs",
@@ -662,46 +686,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "RelevantInfoRetrieverService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\RelevantInfoRetrieverService\\RelevantInfoRetrieverService.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\RelevantInfoRetrieverService\\RelevantInfoRetrieverService.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\RelevantInfoRetrieverService\\RelevantInfoRetrieverService.cs",
               "RelativeToolTip": "AdventChatInfrastructure\\RelevantInfoRetrieverService\\RelevantInfoRetrieverService.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAAB0AAAAMAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAwFAAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T21:33:14.341Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 28,
               "Title": "IGenerativeResponseService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Contracts\\Infrastructure\\IGenerativeResponseService.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Contracts\\Infrastructure\\IGenerativeResponseService.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Contracts\\Infrastructure\\IGenerativeResponseService.cs",
               "RelativeToolTip": "AdventChatApplication\\Contracts\\Infrastructure\\IGenerativeResponseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T00:27:31.88Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "GenerativeResponseService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\GenerativeResponseService\\GenerativeResponseService.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\GenerativeResponseService\\GenerativeResponseService.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\GenerativeResponseService\\GenerativeResponseService.cs",
               "RelativeToolTip": "AdventChatInfrastructure\\GenerativeResponseService\\GenerativeResponseService.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAIAwwCAAAAAQAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T23:21:12.437Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 53,
               "Title": "GetChatQuery.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Features\\AdventChat\\Queries\\GetChat\\GetChatQuery.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Features\\AdventChat\\Queries\\GetChat\\GetChatQuery.cs",
@@ -714,33 +738,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "GetChatQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Features\\AdventChat\\Queries\\GetChat\\GetChatQueryHandler.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Features\\AdventChat\\Queries\\GetChat\\GetChatQueryHandler.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Features\\AdventChat\\Queries\\GetChat\\GetChatQueryHandler.cs",
               "RelativeToolTip": "AdventChatApplication\\Features\\AdventChat\\Queries\\GetChat\\GetChatQueryHandler.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAD4vxIAAAAMAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAD4vxEAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-06T19:59:51.668Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 36,
               "Title": "UnhandleExceptionBehavior.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Behaviors\\UnhandleExceptionBehavior.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Behaviors\\UnhandleExceptionBehavior.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Behaviors\\UnhandleExceptionBehavior.cs",
               "RelativeToolTip": "AdventChatApplication\\Behaviors\\UnhandleExceptionBehavior.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAADwvxUAAAAMAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T22:23:04.998Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 50,
               "Title": "PromptVm.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Features\\AdventChat\\Vms\\PromptVm.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Features\\AdventChat\\Vms\\PromptVm.cs",
@@ -753,7 +778,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 37,
               "Title": "AdventChatController.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatAPI\\Controllers\\AdventChatController.cs",
               "RelativeDocumentMoniker": "AdventChatAPI\\Controllers\\AdventChatController.cs",
@@ -762,11 +787,12 @@
               "ViewState": "AQIAABkAAAAAAAAAAAD4vx8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T23:47:15.532Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 51,
               "Title": "ExceptionMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatAPI\\Middlewares\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "AdventChatAPI\\Middlewares\\ExceptionMiddleware.cs",
@@ -779,20 +805,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 8,
               "Title": "ValidationBehavior.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Behaviors\\ValidationBehavior.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Behaviors\\ValidationBehavior.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Behaviors\\ValidationBehavior.cs",
               "RelativeToolTip": "AdventChatApplication\\Behaviors\\ValidationBehavior.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAwwB8AAAAMAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAArwB8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T23:13:52.089Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 52,
               "Title": "ValidationException.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Exceptions\\ValidationException.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Exceptions\\ValidationException.cs",
@@ -805,7 +831,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 35,
               "Title": "TypeChunkingService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\TypeChunkingService\\TypeChunkingService.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\TypeChunkingService\\TypeChunkingService.cs",
@@ -818,7 +844,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 62,
               "Title": "ITypeChunkingService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Contracts\\Infrastructure\\ITypeChunkingService.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Contracts\\Infrastructure\\ITypeChunkingService.cs",
@@ -831,7 +857,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 49,
               "Title": "ApplicationServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\ApplicationServiceRegistration.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\ApplicationServiceRegistration.cs",
@@ -844,7 +870,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 42,
               "Title": "IHuggingFaceService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Contracts\\Infrastructure\\IHuggingFaceService.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Contracts\\Infrastructure\\IHuggingFaceService.cs",
@@ -857,20 +883,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 22,
               "Title": "HuggingFaceService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\HuggingFaceService\\HuggingFaceService.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\HuggingFaceService\\HuggingFaceService.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\HuggingFaceService\\HuggingFaceService.cs",
               "RelativeToolTip": "AdventChatInfrastructure\\HuggingFaceService\\HuggingFaceService.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAGcAAAAJAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T18:51:50.823Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 43,
               "Title": "HFSettings.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\Models\\HFSettings.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\Models\\HFSettings.cs",
@@ -883,33 +910,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 40,
               "Title": "ICohereService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Contracts\\Infrastructure\\ICohereService.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Contracts\\Infrastructure\\ICohereService.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Contracts\\Infrastructure\\ICohereService.cs",
               "RelativeToolTip": "AdventChatApplication\\Contracts\\Infrastructure\\ICohereService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T15:01:03.677Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 23,
               "Title": "CohereService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\CohereService\\CohereService.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\CohereService\\CohereService.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\CohereService\\CohereService.cs",
               "RelativeToolTip": "AdventChatInfrastructure\\CohereService\\CohereService.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAwwGEAAAAQAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAqwD4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T15:00:18.048Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 41,
               "Title": "CohereSettings.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\Models\\CohereSettings.cs",
               "RelativeDocumentMoniker": "AdventChatInfrastructure\\Models\\CohereSettings.cs",
@@ -922,20 +949,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "EmbeddingChunksCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Features\\AdventChat\\Commands\\EmbeddingChunksCommands\\EmbeddingChunksCommandHandler.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Features\\AdventChat\\Commands\\EmbeddingChunksCommands\\EmbeddingChunksCommandHandler.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Features\\AdventChat\\Commands\\EmbeddingChunksCommands\\EmbeddingChunksCommandHandler.cs",
               "RelativeToolTip": "AdventChatApplication\\Features\\AdventChat\\Commands\\EmbeddingChunksCommands\\EmbeddingChunksCommandHandler.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAAAMAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T10:45:19.151Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 38,
               "Title": "EmbeddingChunksCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Features\\AdventChat\\Commands\\EmbeddingChunksCommands\\EmbeddingChunksCommand.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Features\\AdventChat\\Commands\\EmbeddingChunksCommands\\EmbeddingChunksCommand.cs",
@@ -948,30 +976,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 19,
               "Title": "EmbeddingDoc.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Models\\EmbeddingDoc.cs",
               "RelativeDocumentMoniker": "AdventChatApplication\\Models\\EmbeddingDoc.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Models\\EmbeddingDoc.cs",
               "RelativeToolTip": "AdventChatApplication\\Models\\EmbeddingDoc.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T14:02:01.905Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "appsettings.json.template.json",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatAPI\\appsettings.json.template.json",
               "RelativeDocumentMoniker": "AdventChatAPI\\appsettings.json.template.json",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatAPI\\appsettings.json.template.json",
               "RelativeToolTip": "AdventChatAPI\\appsettings.json.template.json",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAADcAAAACAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-18T22:52:06.418Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-18T23:38:28.1Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DialogUser.cs",
+              "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Models\\DialogUser.cs",
+              "RelativeDocumentMoniker": "AdventChatApplication\\Models\\DialogUser.cs",
+              "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Models\\DialogUser.cs",
+              "RelativeToolTip": "AdventChatApplication\\Models\\DialogUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T16:54:31.031Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Prompt.cs",
+              "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Models\\Prompt.cs",
+              "RelativeDocumentMoniker": "AdventChatApplication\\Models\\Prompt.cs",
+              "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatApplication\\Models\\Prompt.cs",
+              "RelativeToolTip": "AdventChatApplication\\Models\\Prompt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:47:52.535Z",
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -987,28 +1054,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AdventChatAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatAPI\\AdventChatAPI.csproj",
-              "RelativeDocumentMoniker": "AdventChatAPI\\AdventChatAPI.csproj",
-              "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatAPI\\AdventChatAPI.csproj",
-              "RelativeToolTip": "AdventChatAPI\\AdventChatAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-19T00:23:11.842Z"
+              "DocumentIndex": 11,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\arlex\\.nuget\\packages\\pinecone.net\\2.1.1\\README.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\pinecone.net\\2.1.1\\README.md",
+              "ToolTip": "C:\\Users\\arlex\\.nuget\\packages\\pinecone.net\\2.1.1\\README.md [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\pinecone.net\\2.1.1\\README.md [Solo lectura]",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-23T11:33:29.336Z",
+              "EditorCaption": " [Solo lectura]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-18T23:38:28.1Z",
-              "EditorCaption": ""
+              "DocumentIndex": 21,
+              "Title": "SentenceTransformerSettings.cs",
+              "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\Models\\SentenceTransformerSettings.cs",
+              "RelativeDocumentMoniker": "AdventChatInfrastructure\\Models\\SentenceTransformerSettings.cs",
+              "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\Models\\SentenceTransformerSettings.cs",
+              "RelativeToolTip": "AdventChatInfrastructure\\Models\\SentenceTransformerSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:08:22.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SentenceTransformerService.cs",
+              "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\SentenceTransformerService\\SentenceTransformerService.cs",
+              "RelativeDocumentMoniker": "AdventChatInfrastructure\\SentenceTransformerService\\SentenceTransformerService.cs",
+              "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\SentenceTransformerService\\SentenceTransformerService.cs",
+              "RelativeToolTip": "AdventChatInfrastructure\\SentenceTransformerService\\SentenceTransformerService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwGMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T19:50:44.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISentenceTransformerService.cs",
+              "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\SentenceTransformerService\\ISentenceTransformerService.cs",
+              "RelativeDocumentMoniker": "AdventChatInfrastructure\\SentenceTransformerService\\ISentenceTransformerService.cs",
+              "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\AdventChatBack\\AdventChatInfrastructure\\SentenceTransformerService\\ISentenceTransformerService.cs",
+              "RelativeToolTip": "AdventChatInfrastructure\\SentenceTransformerService\\ISentenceTransformerService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAoAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T19:50:00.152Z"
             }
           ]
         }

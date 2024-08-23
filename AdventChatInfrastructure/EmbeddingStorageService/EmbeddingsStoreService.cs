@@ -22,7 +22,8 @@ namespace AdventChatInfrastructure.EmbeddingStorageServices
         // Acces to Database, Query by vector
         public async Task<List<PineconeQueryResult>> QueryEmbeddingsAsync(EmbeddingDoc queryEmbedding, int topK)
         {
-            return await _pineconeService.QueryAsync(queryEmbedding.Embedding!, topK);
+
+            return await _pineconeService.QueryAsync(queryEmbedding.Embedding!, (uint)topK);
         }
 
         // Acces to Database, update vectors

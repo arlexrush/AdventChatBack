@@ -10,6 +10,7 @@ using AdventChatInfrastructure.Models;
 using AdventChatInfrastructure.OpenAIServices;
 using AdventChatInfrastructure.ProcessingDataServices;
 using AdventChatInfrastructure.RelevantInfoRetrieverServices;
+using AdventChatInfrastructure.SentenceTransformerServices;
 using AdventChatInfrastructure.TypeChunkingServices;
 using Google.Apis.Auth.OAuth2;
 using Google.Cloud.Storage.V1;
@@ -17,6 +18,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
 using System.Text.Json;
+using Pinecone;
+using Pinecone.Grpc;
 
 namespace AdventChatInfrastructure
 {
@@ -32,8 +35,8 @@ namespace AdventChatInfrastructure
             //Google FireBaseServices
             // Registra StorageClient como singleton
             services.Configure<FirebaseSettings>(configuration.GetSection("FirebaseSettings"));
-            var section=services.Configure<OpenAISettings>(configuration.GetSection("OpenAISettings"));
-            
+            var section = services.Configure<OpenAISettings>(configuration.GetSection("OpenAISettings"));
+
             services.AddSingleton(serviceProvider =>
             {
                 var firebaseSettings = serviceProvider.GetRequiredService<IOptions<FirebaseSettings>>().Value;
@@ -51,11 +54,11 @@ namespace AdventChatInfrastructure
                     client_x509_cert_url = firebaseSettings.client_x509_cert_url,
                     universe_domain = firebaseSettings.universe_domain
                 };
-                var json =JsonSerializer.Serialize(jsonContent);
+                var json = JsonSerializer.Serialize(jsonContent);
                 var credential = GoogleCredential.FromJson(json);
                 return StorageClient.Create(credential);
-            });    
-            
+            });
+
             // Registro de Firebase Storage Settings
             services.Configure<FirebaseStorageSettings>(option =>
             {
@@ -79,6 +82,15 @@ namespace AdventChatInfrastructure
 
             services.AddHttpClient();
 
+
+            // Sentence Transformers Settings Registration
+            services.Configure<SentenceTransformerSettings>(configuration.GetSection("SentenceTransformerSettings"));
+            services.Configure<SentenceTransformerSettings>(option =>
+            {
+                var section = configuration.GetSection("HFSettings");
+            });
+
+
             // Google Firebase registration
             services.AddScoped<IGoogleFirebaseService, GoogleFirebaseService>();
 
@@ -86,7 +98,7 @@ namespace AdventChatInfrastructure
             services.AddScoped<IProcessingDataService, ProcessingDataService>();
 
             //Chunking Service Registration
-            services.Configure<ChunkingSettings>(option=>
+            services.Configure<ChunkingSettings>(option =>
             {
                 var section = configuration.GetSection("ChunkingSettings");
             }
@@ -102,6 +114,9 @@ namespace AdventChatInfrastructure
             // Embedding Hugging Face Service Registration
             services.AddScoped<IHuggingFaceService, HuggingFaceService>();
 
+            // Sentence Transformers Service Registration
+            services.AddScoped<ISentenceTransformerService, SentenceTransformerService>();
+
             // Embedding Cohere Service Registration
             services.AddScoped<ICohereService, CohereService>();
 
@@ -109,13 +124,15 @@ namespace AdventChatInfrastructure
             services.AddScoped<IOpenAIService, OpenAIService>();
 
             //Pinecone Service Registration
-            services.Configure<PineconeSettings>(configuration.GetSection("PineconeSettings"));
-            services.Configure<PineconeSettings>(option =>
-            {
-                var section = configuration.GetSection("PineconeSettings");
-            }
-            );
+            services.Configure<PineconeSettings>(configuration.GetSection("PineconeSettings"));            
             services.AddScoped<IPineconeService, PineconeService>();
+            services.AddSingleton(serviceProvider => {
+                var apikey = serviceProvider.GetRequiredService<IOptions<PineconeSettings>>().Value.ApiKey;
+                var nameIndex= serviceProvider.GetRequiredService<IOptions<PineconeSettings>>().Value.IndexName;
+                var client = new PineconeClient(apikey!);
+                var index=client.GetIndex(nameIndex!).Result;
+                return index;
+            });
 
             //Embedding Store Service
             services.AddScoped<IEmbeddingsStoreService, EmbeddingsStoreService>();
